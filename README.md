@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=E5F700&background=FF000000&width=435&lines=Hi!+I%27m+Mehmet.;I%27m+Game+Developer+from+Turkey.;And+also+Mechatronics+Engineer+too.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Kutay+Yal%C3%A7%C4%B1ner.)](https://git.io/typing-svg)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kutayyalciner99&theme=highcontrast&show_icons=true&locale=en" alt="kutayyalciner99" /></p>
 
 
