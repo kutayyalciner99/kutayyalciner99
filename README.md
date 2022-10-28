@@ -4,14 +4,13 @@
 
 - 🔭 I’m currently working on CMOS Teknoloji as a Mobile Software Dev.
 
-- 💬 Ask me about C#, Unity, Arduino Raspberry Pi
+- 💬 Ask me about C#, .NET Core, Flutter
 
 - 📫 Directly contact: kutayyalciner@hotmail.com
 
 <h3 align="left">Contact with me: </h3>
 <p align="left">
-<a href="https://twitter.com/mehmetaacar" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=twitter&label=&message=Twitter&color=blue" alt="mehmetaacar"/></a>
-<a href="https://linkedin.com/in/mehmetaacar" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=darkblue" alt="mehmetaacar"/></a>
+<a href="https://linkedin.com/in/kutayyalciner" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=darkblue" alt="kutayyalciner"/></a>
 
 </p>
 
