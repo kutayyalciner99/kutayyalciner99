@@ -17,7 +17,7 @@
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
-<a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?logo=blender&label=&message=Blender&color=black" alt="flutter"/> </a>
+<a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?logo=flutter&label=&message=Flutter&color=blue" alt="flutter"/> </a>
  
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?logo=csharp&label=&message=C%23&color=purple" alt="csharp"/> </a>
  
