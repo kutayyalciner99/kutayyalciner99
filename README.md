@@ -27,7 +27,6 @@
  
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?logo=microsoftsqlserver&label=&message=SQL&color=orange" alt="mssql"/> </a>
  
-    </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutayyalciner99&theme=dark&" alt="kutayyalciner99" /></p>
