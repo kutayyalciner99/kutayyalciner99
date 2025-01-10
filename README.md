@@ -2,8 +2,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kutayyalciner99&theme=dark&show_icons=true&locale=en" alt="kutayyalciner99" /></p>
 
 
-- 🔭 I’m currently working on CMOS Teknoloji as a Mobile Software Dev.
-
 - 💬 Ask me about C#, .NET Core, Flutter
 
 - 📫 Directly contact: kutayyalciner@hotmail.com
